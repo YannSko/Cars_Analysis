@@ -2287,7 +2287,8 @@ JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/re
 JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/react-dom.6ce46ca18bd9b8b42f06.js, line 2: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 1700162064334	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 JavaScript error: https://www.lacentrale.fr/static/fragment-financing/financing-c861ffe3.js, line 1: MaximumAttemptsReachedError: [waitForCondition] The maximum number of attempts has been reached
-1700162223909	geckodriver	INFO	Listening on 127.0.0.1:58942
+Exiting due to channel error.
+Listening on 127.0.0.1:58942
 1700162227002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (X11;  ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofiled1DQ4e"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
@@ -2365,7 +2366,8 @@ JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/re
 JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/react-dom.6ce46ca18bd9b8b42f06.js, line 2: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 JavaScript error: https://www.lacentrale.fr/static/fragment-financing/financing-c861ffe3.js, line 1: MaximumAttemptsReachedError: [waitForCondition] The maximum number of attempts has been reached
 JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\SKONIE~1\AppData\Local\Temp\rust_mozprofile8ioOb8\bookmarkbackups\bookmarks-2023-11-17.jsonlz4) because it does not exist
-warn: services.settings: Ignoring preference override of remote settings server
+Exiting due to channel error.
+ng preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1700162414884	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
@@ -2404,7 +2406,8 @@ JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/re
 JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/react-dom.6ce46ca18bd9b8b42f06.js, line 2: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/react-dom.6ce46ca18bd9b8b42f06.js, line 2: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 JavaScript error: https://www.lacentrale.fr/static/fragment-financing/financing-c861ffe3.js, line 1: MaximumAttemptsReachedError: [waitForCondition] The maximum number of attempts has been reached
-1700162536430	geckodriver	INFO	Listening on 127.0.0.1:59254
+Exiting due to channel error.
+Listening on 127.0.0.1:59254
 1700162539514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Macin ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofileV1KOK1"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
@@ -2711,7 +2714,8 @@ JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/re
 JavaScript error: https://www.lacentrale.fr/static/fragment-financing/financing-c861ffe3.js, line 1: MaximumAttemptsReachedError: [waitForCondition] The maximum number of attempts has been reached
 JavaScript error: https://www.lacentrale.fr/static/fragment-financing/financing-c861ffe3.js, line 1: MaximumAttemptsReachedError: [waitForCondition] The maximum number of attempts has been reached
 JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\SKONIE~1\AppData\Local\Temp\rust_mozprofilec68jwU\bookmarkbackups\bookmarks-2023-11-17.jsonlz4) because it does not exist
-t=Mozilla/5.0 (Macin ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofileqqksX5"
+Exiting due to channel error.
+ote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofileqqksX5"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
@@ -2901,7 +2905,8 @@ JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/re
 JavaScript error: https://www.lacentrale.fr/static/fragment-financing/financing-c861ffe3.js, line 1: MaximumAttemptsReachedError: [waitForCondition] The maximum number of attempts has been reached
 JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\SKONIE~1\AppData\Local\Temp\rust_mozprofilerD2ogN\bookmarkbackups\bookmarks-2023-11-17.jsonlz4) because it does not exist
 JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\SKONIE~1\AppData\Local\Temp\rust_mozprofilerD2ogN\bookmarkbackups\bookmarks-2023-11-17.jsonlz4) because it does not exist
-: services.settings: Ignoring preference override of remote settings server
+Exiting due to channel error.
+reference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1700165635802	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
@@ -3170,7 +3175,8 @@ JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/re
 JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/react-dom.6ce46ca18bd9b8b42f06.js, line 2: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/react-dom.6ce46ca18bd9b8b42f06.js, line 2: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 JavaScript error: https://www.lacentrale.fr/static/fragment-financing/financing-c861ffe3.js, line 1: MaximumAttemptsReachedError: [waitForCondition] The maximum number of attempts has been reached
-1700169307349	geckodriver	INFO	Listening on 127.0.0.1:62565
+Exiting due to channel error.
+Listening on 127.0.0.1:62565
 1700169310393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofileulC75k"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
@@ -3331,7 +3337,8 @@ JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/re
 JavaScript error: https://www.lacentrale.fr/static/fragment-financing/financing-c861ffe3.js, line 1: MaximumAttemptsReachedError: [waitForCondition] The maximum number of attempts has been reached
 JavaScript error: https://www.lacentrale.fr/static/fragment-financing/financing-c861ffe3.js, line 1: MaximumAttemptsReachedError: [waitForCondition] The maximum number of attempts has been reached
 JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\SKONIE~1\AppData\Local\Temp\rust_mozprofileFD1Mfg\bookmarkbackups\bookmarks-2023-11-17.jsonlz4) because it does not exist
-t=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofileVaG2pN"
+Exiting due to channel error.
+ote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofileVaG2pN"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
@@ -3431,7 +3438,8 @@ JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/re
 JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/react-dom.6ce46ca18bd9b8b42f06.js, line 2: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/react-dom.6ce46ca18bd9b8b42f06.js, line 2: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 JavaScript error: https://www.lacentrale.fr/static/fragment-financing/financing-c861ffe3.js, line 1: MaximumAttemptsReachedError: [waitForCondition] The maximum number of attempts has been reached
-1700171948514	geckodriver	INFO	Listening on 127.0.0.1:63543
+Exiting due to channel error.
+Listening on 127.0.0.1:63543
 1700171951604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofilembuNth"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
@@ -3477,7 +3485,8 @@ JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/re
 JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/react-dom.6ce46ca18bd9b8b42f06.js, line 2: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 1700171983123	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 JavaScript error: https://www.lacentrale.fr/static/fragment-financing/financing-c861ffe3.js, line 1: MaximumAttemptsReachedError: [waitForCondition] The maximum number of attempts has been reached
-1700172174231	geckodriver	INFO	Listening on 127.0.0.1:63706
+Exiting due to channel error.
+Listening on 127.0.0.1:63706
 1700172177279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofileXCaJgf"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
@@ -3536,7 +3545,9 @@ JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/re
 JavaScript error: https://www.lacentrale.fr/static/fragment-financing/financing-c861ffe3.js, line 1: MaximumAttemptsReachedError: [waitForCondition] The maximum number of attempts has been reached
 JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\SKONIE~1\AppData\Local\Temp\rust_mozprofileXCaJgf\bookmarkbackups\bookmarks-2023-11-17.jsonlz4) because it does not exist
 JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\SKONIE~1\AppData\Local\Temp\rust_mozprofileXCaJgf\bookmarkbackups\bookmarks-2023-11-17.jsonlz4) because it does not exist
-: services.settings: Ignoring preference override of remote settings server
+Exiting due to channel error.
+Exiting due to channel error.
+ttings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1700172376078	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
@@ -3752,7 +3763,8 @@ JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/co
 JavaScript error: https://www.lacentrale.fr/fragments/recherche-fragment-front/listing-3964d3f5.js, line 3: Error: Failed to fetch: https://www.lacentrale.fr/collect
 1700195366175	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 JavaScript error: https://www.lacentrale.fr/static/fragment-financing/financing-c861ffe3.js, line 1: MaximumAttemptsReachedError: [waitForCondition] The maximum number of attempts has been reached
-1700195457325	geckodriver	INFO	Listening on 127.0.0.1:49592
+Exiting due to channel error.
+Listening on 127.0.0.1:49592
 1700195460376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (X11;  ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofile6csGNs"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
@@ -3779,7 +3791,8 @@ JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/co
 JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/commons-0a69b92a.js, line 28: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 1700195492857	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 JavaScript error: https://www.lacentrale.fr/static/fragment-financing/financing-c861ffe3.js, line 1: MaximumAttemptsReachedError: [waitForCondition] The maximum number of attempts has been reached
-1700195742802	geckodriver	INFO	Listening on 127.0.0.1:49740
+Exiting due to channel error.
+Listening on 127.0.0.1:49740
 1700195745854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofile5iyAga"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
@@ -3807,7 +3820,8 @@ JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/co
 JavaScript error: https://www.lacentrale.fr/fragments/recherche-fragment-front/listing-3964d3f5.js, line 3: Error: Failed to fetch: https://www.lacentrale.fr/collect
 1700195778168	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 JavaScript error: https://www.lacentrale.fr/static/fragment-financing/financing-c861ffe3.js, line 1: MaximumAttemptsReachedError: [waitForCondition] The maximum number of attempts has been reached
-1700195855729	geckodriver	INFO	Listening on 127.0.0.1:49850
+Exiting due to channel error.
+Listening on 127.0.0.1:49850
 1700195858764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (X11;  ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofilejjdK1G"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
@@ -3835,7 +3849,8 @@ JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/co
 JavaScript error: https://www.lacentrale.fr/fragments/recherche-fragment-front/listing-3964d3f5.js, line 3: Error: Failed to fetch: https://www.lacentrale.fr/collect
 1700195891135	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 JavaScript error: https://www.lacentrale.fr/static/fragment-financing/financing-c861ffe3.js, line 1: MaximumAttemptsReachedError: [waitForCondition] The maximum number of attempts has been reached
-1700195972089	geckodriver	INFO	Listening on 127.0.0.1:49959
+Exiting due to channel error.
+Listening on 127.0.0.1:49959
 1700195975137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofileNDFN63"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
@@ -3862,8 +3877,10 @@ JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/co
 JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/commons-0a69b92a.js, line 28: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 1700196005949	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 JavaScript error: https://www.lacentrale.fr/static/fragment-financing/financing-c861ffe3.js, line 1: MaximumAttemptsReachedError: [waitForCondition] The maximum number of attempts has been reached
-1700196155021	geckodriver	INFO	Listening on 127.0.0.1:50070
-1700196158079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofileyFTpdN"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+NFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofileyFTpdN"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
@@ -3889,8 +3906,10 @@ JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/co
 JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/commons-0a69b92a.js, line 28: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 1700196190292	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 JavaScript error: https://www.lacentrale.fr/static/fragment-financing/financing-c861ffe3.js, line 1: MaximumAttemptsReachedError: [waitForCondition] The maximum number of attempts has been reached
-1700196594867	geckodriver	INFO	Listening on 127.0.0.1:50232
-1700196597902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofileI4h6SQ"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+NFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofileI4h6SQ"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
@@ -3940,8 +3959,9 @@ JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/re
 JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/react-dom.6ce46ca18bd9b8b42f06.js, line 2: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/react-dom.6ce46ca18bd9b8b42f06.js, line 2: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 JavaScript error: https://www.lacentrale.fr/static/fragment-financing/financing-c861ffe3.js, line 1: MaximumAttemptsReachedError: [waitForCondition] The maximum number of attempts has been reached
-1700196833479	geckodriver	INFO	Listening on 127.0.0.1:50468
-1700196836497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofileu13SNG"
+Exiting due to channel error.
+Exiting due to channel error.
+00196836497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofileu13SNG"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
@@ -4119,3 +4139,4 @@ JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/re
 JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/react-dom.6ce46ca18bd9b8b42f06.js, line 2: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 JavaScript error: https://www.lacentrale.fr/static/fragment-lc-mozart-commons/react-dom.6ce46ca18bd9b8b42f06.js, line 2: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 JavaScript error: https://www.lacentrale.fr/static/fragment-financing/financing-c861ffe3.js, line 1: MaximumAttemptsReachedError: [waitForCondition] The maximum number of attempts has been reached
+Exiting due to channel error.
