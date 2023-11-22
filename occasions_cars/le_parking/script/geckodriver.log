@@ -3462,3 +3462,35 @@ Zx<@https://www.youtube.com/s/player/190c935f/www-embed-player.vflset/www-embed-
 kl/<@https://www.youtube.com/s/player/190c935f/www-embed-player.vflset/www-embed-player.js:871:63
 
 JavaScript error: https://ads.sportslocalmedia.com/slm.prebid.leparkingbev2.js, line 1: SyntaxError: Document.querySelector: '.akcelo-wrapper:has(#Leparking_ATF_160x600)' is not a valid selector
+1700626272842	geckodriver	INFO	Listening on 127.0.0.1:61180
+1700626275910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofilejNwZxi"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700626276252	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700626276317	Marionette	INFO	Listening on port 61189
+WebDriver BiDi listening on ws://127.0.0.1:61181
+Read port: 61189
+1700626276465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61181/devtools/browser/3efb0b20-9d70-491e-86b4-518065841514
+JavaScript warning: https://www.leparking.be/jsV233/index_twig.js, line 3633: unreachable code after return statement
+JavaScript error: https://ads.sportslocalmedia.com/slm.prebid.leparkingbev2.js, line 1: SyntaxError: Document.querySelector: '.akcelo-wrapper:has(#Leparking_ATF_160x600)' is not a valid selector
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.leparking.be."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.leparking.be."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.leparking.be."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.leparking.be."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.leparking.be."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.leparking.be."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.leparking.be."
+JavaScript warning: https://www.youtube.com/s/player/63e90c30/www-embed-player.vflset/www-embed-player.js, line 887: Script terminated by timeout at:
+R@https://www.youtube.com/s/player/63e90c30/www-embed-player.vflset/www-embed-player.js:887:133
+Zx<@https://www.youtube.com/s/player/63e90c30/www-embed-player.vflset/www-embed-player.js:1882:98
+kl/<@https://www.youtube.com/s/player/63e90c30/www-embed-player.vflset/www-embed-player.js:871:63
+
+JavaScript warning: https://www.leparking.be/jsV233/index_twig.js, line 3633: unreachable code after return statement
+JavaScript error: https://ads.sportslocalmedia.com/slm.prebid.leparkingbev2.js, line 1: SyntaxError: Document.querySelector: '.akcelo-wrapper:has(#Leparking_ATF_160x600)' is not a valid selector
+1700626306347	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
