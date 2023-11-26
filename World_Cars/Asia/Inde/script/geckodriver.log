@@ -1405,3 +1405,208 @@ console.error: ({})
 DevTools listening on ws://127.0.0.1:50307/devtools/browser/7741b355-7062-411e-b4d9-374b515d5d79
 JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 7780 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 1700999670694	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+1701000112782	geckodriver	INFO	Listening on 127.0.0.1:50594
+1701000115853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Macin ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofilechaMaN"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701000116206	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701000116271	Marionette	INFO	Listening on port 50603
+WebDriver BiDi listening on ws://127.0.0.1:50595
+Read port: 50603
+1701000116416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50595/devtools/browser/4ab909a0-c907-4876-932e-266ff9cd7dec
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 761 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701000146302	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1701000225310	geckodriver	INFO	Listening on 127.0.0.1:50784
+1701000228366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (X11;  ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofileW62ThR"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701000228774	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701000228838	Marionette	INFO	Listening on port 50793
+WebDriver BiDi listening on ws://127.0.0.1:50785
+Read port: 50793
+1701000229009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50785/devtools/browser/4e7a6bc1-ff66-40c1-8820-1ec6d64d6876
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 2297 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701000259844	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701000355896	Marionette	INFO	Stopped listening on port 50793
+Dynamically enable window occlusion 1
+1701000478625	geckodriver	INFO	Listening on 127.0.0.1:51018
+1701000481696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofilefuGuVP"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701000482030	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701000482095	Marionette	INFO	Listening on port 51027
+WebDriver BiDi listening on ws://127.0.0.1:51019
+Read port: 51027
+1701000482246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51019/devtools/browser/f8956817-1a11-46ed-bb43-5bde73dbe313
+JavaScript error: , line 0: uncaught exception: undefined
+1701000512864	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701000526360	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1701000575538	geckodriver	INFO	Listening on 127.0.0.1:49976
+1701000578614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofileviBHD3"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701000578985	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701000579052	Marionette	INFO	Listening on port 49993
+WebDriver BiDi listening on ws://127.0.0.1:49977
+Read port: 49993
+1701000579110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49977/devtools/browser/89395993-f7b8-42c0-a6a2-fdd003a55a3b
+1701000586113	geckodriver	INFO	Listening on 127.0.0.1:50050
+1701000589142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofile4joTtZ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701000589469	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701000589538	Marionette	INFO	Listening on port 50058
+WebDriver BiDi listening on ws://127.0.0.1:50051
+Read port: 50058
+1701000589698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50051/devtools/browser/a948c2b2-5ea2-45af-a656-8ffe84be1b95
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 5557 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701000620422	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+1701000798658	geckodriver	INFO	Listening on 127.0.0.1:50249
+1701000801723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofile6KkraA"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701000802077	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701000802143	Marionette	INFO	Listening on port 50258
+WebDriver BiDi listening on ws://127.0.0.1:50250
+Read port: 50258
+1701000802293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50250/devtools/browser/dd4b2e0f-2272-4aea-ad98-41d26cf95365
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 6638 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701000820215	Marionette	INFO	Stopped listening on port 50258
+Dynamically enable window occlusion 1
+1701000932646	geckodriver	INFO	Listening on 127.0.0.1:50425
+1701000935718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofilevHV1fp"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701000936078	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701000936142	Marionette	INFO	Listening on port 50433
+WebDriver BiDi listening on ws://127.0.0.1:50426
+Read port: 50433
+1701000936290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50426/devtools/browser/b249c9a5-bd2e-40af-99fa-063851fa816d
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 4385 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701000954517	Marionette	INFO	Stopped listening on port 50433
+Dynamically enable window occlusion 1
+1701001078242	geckodriver	INFO	Listening on 127.0.0.1:50602
+1701001081321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (X11;  ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofilep43Gm6"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701001081644	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701001081711	Marionette	INFO	Listening on port 50610
+WebDriver BiDi listening on ws://127.0.0.1:50603
+Read port: 50610
+1701001081861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50603/devtools/browser/bad141c8-a839-4b34-aac8-f1b829f43fcf
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 4699 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701001111682	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701001249315	Marionette	INFO	Stopped listening on port 50610
+Dynamically enable window occlusion 1
+1701001512285	geckodriver	INFO	Listening on 127.0.0.1:63514
+1701001515344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofilenBSQUT"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701001515697	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701001515761	Marionette	INFO	Listening on port 63523
+WebDriver BiDi listening on ws://127.0.0.1:63515
+Read port: 63523
+1701001515904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63515/devtools/browser/9e32340d-112b-4762-88ff-ab0370dbe8c3
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 7055 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701001546080	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+1701001706947	geckodriver	INFO	Listening on 127.0.0.1:63702
+1701001710002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Macin ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofilewo79ej"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701001710334	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701001710401	Marionette	INFO	Listening on port 63710
+WebDriver BiDi listening on ws://127.0.0.1:63703
+Read port: 63710
+1701001710558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63703/devtools/browser/95611176-1f11-4b8e-99c8-b0fe0e25ef03
+1701001741389	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+1701001999584	geckodriver	INFO	Listening on 127.0.0.1:65486
+1701002002649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Macin ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofilefJfvsk"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701002002978	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701002003042	Marionette	INFO	Listening on port 65495
+WebDriver BiDi listening on ws://127.0.0.1:65487
+Read port: 65495
+1701002003189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:65487/devtools/browser/c272bc00-db15-42ed-9b60-9b6aea767c73
+JavaScript error: , line 0: uncaught exception: undefined
+1701002033327	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+1701002287676	geckodriver	INFO	Listening on 127.0.0.1:49363
+1701002290749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofilecaBn7i"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701002291107	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701002291176	Marionette	INFO	Listening on port 49371
+WebDriver BiDi listening on ws://127.0.0.1:49364
+Read port: 49371
+1701002291322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49364/devtools/browser/b07ea77e-dc96-40fa-a626-314ec36c0f40
+1701002321183	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
