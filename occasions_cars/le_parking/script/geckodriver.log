@@ -9715,3 +9715,94 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.leparking.be."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.leparking.be."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.leparking.be."
+Exiting due to channel error.
+Exiting due to channel error.
+1704195040779	geckodriver	INFO	Listening on 127.0.0.1:53097
+1704195043839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (X11;  ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofile7GMY2x"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704195044172	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704195044239	Marionette	INFO	Listening on port 53107
+WebDriver BiDi listening on ws://127.0.0.1:53098
+Read port: 53107
+1704195044392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53098/devtools/browser/37eda62c-aa7d-453d-95c1-bb3706ebc83d
+JavaScript warning: https://www.leparking.be/jsV237/index_twig.js, line 3633: unreachable code after return statement
+JavaScript error: https://www.leparking.be/voiture-occasion/#!/voiture-occasion/%3Fid_pays%3D1%7C6%7C18%7C32, line 2930: TypeError: window.__ezCmpConfig is undefined
+1704195075258	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+Exiting due to channel error.
+Exiting due to channel error.
+1704195121433	geckodriver	INFO	Listening on 127.0.0.1:53340
+1704195124515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofilercYWnf"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704195124859	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704195124929	Marionette	INFO	Listening on port 53356
+WebDriver BiDi listening on ws://127.0.0.1:53341
+Read port: 53356
+1704195125098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53341/devtools/browser/b7430eb5-c2d0-4b82-90fc-2a2564a52387
+JavaScript warning: https://www.leparking.be/jsV237/index_twig.js, line 3633: unreachable code after return statement
+JavaScript error: https://www.leparking.be/voiture-occasion/#!/voiture-occasion/%3Fid_pays%3D1%7C6%7C18%7C32, line 2426: TypeError: window.__ezCmpConfig is undefined
+JavaScript warning: https://www.youtube.com/s/player/da154528/www-embed-player.vflset/www-embed-player.js, line 875: Script terminated by timeout at:
+gl/<@https://www.youtube.com/s/player/da154528/www-embed-player.vflset/www-embed-player.js:875:47
+
+1704195154962	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1704195285383	geckodriver	INFO	Listening on 127.0.0.1:54020
+1704195288417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Macin ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofilePUlCvL"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704195288876	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704195288974	Marionette	INFO	Listening on port 54051
+WebDriver BiDi listening on ws://127.0.0.1:54021
+Read port: 54051
+1704195289226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54021/devtools/browser/c74cf4d8-fd31-45cc-8b41-6ae633b13007
+JavaScript warning: https://www.leparking.be/jsV237/index_twig.js, line 3633: unreachable code after return statement
+JavaScript error: https://www.leparking.be/voiture-occasion/#!/voiture-occasion/%3Fid_pays%3D1%7C6%7C18%7C32, line 2445: TypeError: window.__ezCmpConfig is undefined
+JavaScript warning: https://www.youtube.com/s/player/da154528/www-embed-player.vflset/www-embed-player.js, line 875: Script terminated by timeout at:
+gl/<@https://www.youtube.com/s/player/da154528/www-embed-player.vflset/www-embed-player.js:875:47
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1704195342362	geckodriver	INFO	Listening on 127.0.0.1:54261
+1704195345384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Macin ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofileQgkiRA"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704195345765	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704195345854	Marionette	INFO	Listening on port 54270
+WebDriver BiDi listening on ws://127.0.0.1:54262
+Read port: 54270
+1704195346048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54262/devtools/browser/2e32430e-c69f-43ad-917a-119f30fb5b0d
+console.error: (new NetworkOfflineError("Network is offline", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkOfflineError("Network is offline", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkOfflineError("Network is offline", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript warning: https://www.leparking.be/jsV237/index_twig.js, line 3633: unreachable code after return statement
+JavaScript error: https://www.leparking.be/voiture-occasion/#!/voiture-occasion/%3Fid_pays%3D1%7C6%7C18%7C32, line 2444: TypeError: window.__ezCmpConfig is undefined
+1704195376290	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
