@@ -2394,3 +2394,61 @@ JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch res
 JavaScript error: https://www.gumtree.com.au/s-ad/homebush/cars-vans-utes/2013-hyundai-santa-fe-dm-highlander-crdi-4x4-grey-6-speed-automatic-wagon/1311696418 line 663 > injectedScript, line 1: ReferenceError: fbq is not defined
 JavaScript warning: https://www.gumtree.com.au/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://www.gumtree.com.au/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1704189768274	geckodriver	INFO	Listening on 127.0.0.1:56279
+1704189771346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofilebtT17H"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704189771702	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704189771773	Marionette	INFO	Listening on port 56291
+WebDriver BiDi listening on ws://127.0.0.1:56280
+Read port: 56291
+1704189771945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56280/devtools/browser/41424d8d-c640-4e10-a296-e39befacea65
+1704189802081	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+console.error: ({})
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1704192049059	geckodriver	INFO	Listening on 127.0.0.1:51796
+1704192052123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofilesjt3v3"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704192052463	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704192052528	Marionette	INFO	Listening on port 51804
+WebDriver BiDi listening on ws://127.0.0.1:51797
+Read port: 51804
+1704192052679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51797/devtools/browser/a5875627-c492-412b-85c7-a0ce61a6e4f2
+1704192082493	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://www.gumtree.com.au/s-ad/warwick-farm/cars-vans-utes/2020-volvo-xc60-t5-momentum-awd-/1300071129 line 665 > injectedScript, line 1: ReferenceError: fbq is not defined
+1704192089077	Marionette	INFO	Stopped listening on port 51804
+JavaScript warning: https://www.gumtree.com.au/s-ad/warwick-farm/cars-vans-utes/2020-volvo-xc60-t5-momentum-awd-/1300071129 line 665 > injectedScript, line 180: Script terminated by timeout at:
+isEmptyObject@https://www.gumtree.com.au/s-ad/warwick-farm/cars-vans-utes/2020-volvo-xc60-t5-momentum-awd-/1300071129 line 665 > injectedScript:180:308
+createQueuedRequest@https://www.gumtree.com.au/s-ad/warwick-farm/cars-vans-utes/2020-volvo-xc60-t5-momentum-awd-/1300071129 line 665 > injectedScript:171:85
+submitRequest@https://www.gumtree.com.au/s-ad/warwick-farm/cars-vans-utes/2020-volvo-xc60-t5-momentum-awd-/1300071129 line 665 > injectedScript:170:442
+submit@https://www.gumtree.com.au/s-ad/warwick-farm/cars-vans-utes/2020-volvo-xc60-t5-momentum-awd-/1300071129 line 665 > injectedScript:167:245
+wb/<@https://www.gumtree.com.au/s-ad/warwick-farm/cars-vans-utes/2020-volvo-xc60-t5-momentum-awd-/1300071129 line 665 > injectedScript:187:432
+
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/devtools-devices sync interrupted by shutdown
+console.warn: services.settings: main/websites-with-shared-credential-backends sync interrupted by shutdown
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/translations-models sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/language-dictionaries getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))

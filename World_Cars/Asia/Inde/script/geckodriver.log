@@ -1610,3 +1610,291 @@ Read port: 49371
 console.error: ({})
 DevTools listening on ws://127.0.0.1:49364/devtools/browser/b07ea77e-dc96-40fa-a626-314ec36c0f40
 1701002321183	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1704189863860	geckodriver	INFO	Listening on 127.0.0.1:60889
+1704189866895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Macin ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofileGCrDB3"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704189867223	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704189867289	Marionette	INFO	Listening on port 60913
+WebDriver BiDi listening on ws://127.0.0.1:60890
+Read port: 60913
+1704189867435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60890/devtools/browser/9af43c09-2192-4f63-8f79-454a7261eb9e
+1704189897548	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+console.error: ({})
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704189976089	Marionette	INFO	Stopped listening on port 60913
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c, line 196: Script terminated by timeout at:
+rb@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:196:653
+Sd/<@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:228:365
+ed.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:209:1181
+fb@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:193:576
+I@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:209:1429
+he@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:230:326
+ed.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:209:1181
+fb@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:193:576
+I@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:209:1429
+vd@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:217:701
+ed.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:209:1181
+fb@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:193:576
+I@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:209:1429
+$d@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:229:279
+ed.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:209:1181
+fb@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:193:576
+eb@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:193:375
+Sd/<@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:228:384
+ed.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:209:1181
+wd@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:220:67
+ed.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:209:1181
+fb@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:193:576
+I@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:209:1429
+he@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:230:326
+ed.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:209:1181
+fb@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:193:576
+I@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:209:1429
+$d@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:229:279
+ed.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:209:1181
+fb@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:193:576
+eb@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:193:375
+Sd/<@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:228:384
+ed.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:209:1181
+fb@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:193:576
+eb@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:193:375
+Id@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:223:73
+Nd@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:226:137
+Qd@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:225:204
+ed.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:209:1181
+fb@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:193:576
+eb@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:193:375
+Sd/<@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:228:384
+ed.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:209:1181
+SG/<@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:641:690
+Hp@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:419:231
+aa.Km@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:629:226
+aa.Jm/k/<@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:615:121
+Qj@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:331:342
+dk@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:334:350
+k@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:615:107
+c@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:381:169
+yn@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:382:269
+aa.Jm@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:615:144
+c@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:634:678
+nq@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:422:298
+mq.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:425:263
+mq.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:423:207
+fq@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:420:789
+event@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:485:395
+Sx@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:494:472
+Wx/b.push@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:499:315
+73216/fireNonInteractiveTrackingWithDelay/<@https://stc.aeplcdn.com/staticminv2/js/default-f2dd167ae67f36b042ef659d73311952-8f27d644.a766b8b4d9.en.js:1:71949
+70907/window.onload/<@https://stc.aeplcdn.com/staticminv2/js/default-f2dd167ae67f36b042ef659d73311952-8f27d644.a766b8b4d9.en.js:1:1865
+
+Dynamically enable window occlusion 1
+1704190786424	geckodriver	INFO	Listening on 127.0.0.1:50393
+1704190789474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofileXtIHqU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704190789813	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704190789884	Marionette	INFO	Listening on port 50401
+WebDriver BiDi listening on ws://127.0.0.1:50394
+Read port: 50401
+1704190790065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50394/devtools/browser/c8083c71-8037-44f2-b85b-b119abe86240
+1704190820170	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704190899002	Marionette	INFO	Stopped listening on port 50401
+JavaScript warning: https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js, line 2: Script terminated by timeout at:
+Ud@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:13753
+Td@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:13723
+
+Dynamically enable window occlusion 1
+1704191180824	geckodriver	INFO	Listening on 127.0.0.1:50554
+1704191183902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofileNNE3mH"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704191184248	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704191184315	Marionette	INFO	Listening on port 50562
+WebDriver BiDi listening on ws://127.0.0.1:50555
+Read port: 50562
+1704191184465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50555/devtools/browser/3cd77d41-1cdd-43c8-b48d-e8d2dea8db76
+1704191199186	Marionette	INFO	Stopped listening on port 50562
+JavaScript warning: https://stc.aeplcdn.com/staticminv2/js/defaultvendors-f2dd167ae67f36b042ef659d73311952-f82e0cd2.714ca11f8d.en.js, line 2: Script terminated by timeout at:
+omit@https://stc.aeplcdn.com/staticminv2/js/defaultvendors-f2dd167ae67f36b042ef659d73311952-f82e0cd2.714ca11f8d.en.js:2:72027
+render@https://stc.aeplcdn.com/staticminv2/js/defaultvendors-f2dd167ae67f36b042ef659d73311952-296d9c70.ec64b6b343.en.js:1:15219
+Mh@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:41871
+Lh@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:41666
+Gl@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:104338
+jj@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:57835
+Z@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:54862
+$i@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:53439
+83975/yf/<@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:20972
+39666/t.unstable_runWithPriority@https://stc.aeplcdn.com/staticminv2/js/defaultvendors-f2dd167ae67f36b042ef659d73311952-27545368.cb94c884c2.en.js:2:10930
+vf@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:20701
+yf@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:20919
+O@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:20852
+ej@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:53769
+notify@https://stc.aeplcdn.com/staticminv2/js/defaultvendors-f2dd167ae67f36b042ef659d73311952-49ceb22a.069f714e5d.en.js:1:13346
+notifyNestedSubs@https://stc.aeplcdn.com/staticminv2/js/defaultvendors-f2dd167ae67f36b042ef659d73311952-49ceb22a.069f714e5d.en.js:1:12831
+notifySubscribers@https://stc.aeplcdn.com/staticminv2/js/defaultvendors-f2dd167ae67f36b042ef659d73311952-49ceb22a.069f714e5d.en.js:1:14746
+handleChangeWrapper@https://stc.aeplcdn.com/staticminv2/js/defaultvendors-f2dd167ae67f36b042ef659d73311952-49ceb22a.069f714e5d.en.js:1:12919
+dispatch@https://stc.aeplcdn.com/staticminv2/js/defaultvendors-f2dd167ae67f36b042ef659d73311952-49ceb22a.069f714e5d.en.js:1:53013
+30636/createThunkMiddleware/</</<@https://stc.aeplcdn.com/staticminv2/js/defaultvendors-f2dd167ae67f36b042ef659d73311952-49ceb22a.069f714e5d.en.js:1:51190
+handleSignedInApiResponse@https://stc.aeplcdn.com/staticminv2/js/default-f2dd167ae67f36b042ef659d73311952-d5ef20ee.554aad9c3f.en.js:1:17275
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/actors/ContentMetaChild.sys.mjs, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1704191283304	geckodriver	INFO	Listening on 127.0.0.1:50710
+1704191286364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofileoIV5kr"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704191286698	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704191286767	Marionette	INFO	Listening on port 50719
+WebDriver BiDi listening on ws://127.0.0.1:50711
+Read port: 50719
+1704191286923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50711/devtools/browser/1e8f321e-49be-4c44-b702-5334d193fa6f
+1704191305586	Marionette	INFO	Stopped listening on port 50719
+JavaScript warning: https://stc.aeplcdn.com/staticminv2/js/defaultvendors-f2dd167ae67f36b042ef659d73311952-27545368.cb94c884c2.en.js, line 2: Script terminated by timeout at:
+39666/t.unstable_now<@https://stc.aeplcdn.com/staticminv2/js/defaultvendors-f2dd167ae67f36b042ef659d73311952-27545368.cb94c884c2.en.js:2:9790
+J@https://stc.aeplcdn.com/staticminv2/js/defaultvendors-f2dd167ae67f36b042ef659d73311952-27545368.cb94c884c2.en.js:2:10079
+
+Dynamically enable window occlusion 1
+1704191391639	geckodriver	INFO	Listening on 127.0.0.1:50845
+1704191394729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Macin ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofileSWFnue"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704191395109	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704191395173	Marionette	INFO	Listening on port 50853
+WebDriver BiDi listening on ws://127.0.0.1:50846
+Read port: 50853
+1704191395303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50846/devtools/browser/7d744e11-e54c-4d53-9d08-63b6b33f0f24
+1704191409901	Marionette	INFO	Stopped listening on port 50853
+JavaScript warning: https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js, line 2: Script terminated by timeout at:
+M@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:112823
+CityScreen@https://stc.aeplcdn.com/staticminv2/js/defaultvendors-c308d2cf88701799bdd53704299dc1f2.835102353f.en.js:1:1240
+dh@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:33577
+Jh@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:38730
+Gl@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:104256
+jj@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:57835
+Z@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:54862
+$i@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:53439
+83975/yf/<@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:20972
+39666/t.unstable_runWithPriority@https://stc.aeplcdn.com/staticminv2/js/defaultvendors-f2dd167ae67f36b042ef659d73311952-27545368.cb94c884c2.en.js:2:10930
+vf@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:20701
+yf@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:20919
+O@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:20852
+ej@https://stc.aeplcdn.com/staticminv2/js/react.7373797363.en.js:2:53769
+notify@https://stc.aeplcdn.com/staticminv2/js/defaultvendors-f2dd167ae67f36b042ef659d73311952-49ceb22a.069f714e5d.en.js:1:13346
+notifyNestedSubs@https://stc.aeplcdn.com/staticminv2/js/defaultvendors-f2dd167ae67f36b042ef659d73311952-49ceb22a.069f714e5d.en.js:1:12831
+notifySubscribers@https://stc.aeplcdn.com/staticminv2/js/defaultvendors-f2dd167ae67f36b042ef659d73311952-49ceb22a.069f714e5d.en.js:1:14746
+handleChangeWrapper@https://stc.aeplcdn.com/staticminv2/js/defaultvendors-f2dd167ae67f36b042ef659d73311952-49ceb22a.069f714e5d.en.js:1:12919
+dispatch@https://stc.aeplcdn.com/staticminv2/js/defaultvendors-f2dd167ae67f36b042ef659d73311952-49ceb22a.069f714e5d.en.js:1:53013
+30636/createThunkMiddleware/</</<@https://stc.aeplcdn.com/staticminv2/js/defaultvendors-f2dd167ae67f36b042ef659d73311952-49ceb22a.069f714e5d.en.js:1:51190
+handleSignedInApiResponse@https://stc.aeplcdn.com/staticminv2/js/default-f2dd167ae67f36b042ef659d73311952-d5ef20ee.554aad9c3f.en.js:1:17275
+
+Dynamically enable window occlusion 1
+1704191523862	geckodriver	INFO	Listening on 127.0.0.1:51015
+1704191526892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofiletvkSnQ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704191527404	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704191527471	Marionette	INFO	Listening on port 51024
+WebDriver BiDi listening on ws://127.0.0.1:51016
+Read port: 51024
+1704191527622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51016/devtools/browser/6076e736-9c51-4882-adf3-8deb02ad69b7
+1704191557457	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704191572485	Marionette	INFO	Stopped listening on port 51024
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c, line 499: Script terminated by timeout at:
+Wx/b.push@https://www.googletagmanager.com/gtag/js?id=G-Z81QVQY510&l=dataLayer&cx=c:499:107
+73216/fireNonInteractiveTrackingWithDelay/<@https://stc.aeplcdn.com/staticminv2/js/default-f2dd167ae67f36b042ef659d73311952-8f27d644.a766b8b4d9.en.js:1:71949
+70907/window.onload/<@https://stc.aeplcdn.com/staticminv2/js/default-f2dd167ae67f36b042ef659d73311952-8f27d644.a766b8b4d9.en.js:1:1865
+
+Dynamically enable window occlusion 1
+1704191616841	geckodriver	INFO	Listening on 127.0.0.1:51150
+1704191619904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofilepnz6yz"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704191620273	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704191620347	Marionette	INFO	Listening on port 51162
+WebDriver BiDi listening on ws://127.0.0.1:51151
+Read port: 51162
+1704191620502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51151/devtools/browser/fc550428-2b3e-4c84-b9e3-a9b8b68772bd
+1704191651117	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704191689572	Marionette	INFO	Stopped listening on port 51162
+JavaScript warning: https://surveys-static.survicate.com/widget_core-22.3.6.js, line 1: Script terminated by timeout at:
+Er/<@https://surveys-static.survicate.com/widget_core-22.3.6.js:1:218750
+Er@https://surveys-static.survicate.com/widget_core-22.3.6.js:1:218495
+consumeRequests/<@https://surveys-static.survicate.com/widget_core-22.3.6.js:1:220041
+
+Dynamically enable window occlusion 1
+1704191866353	geckodriver	INFO	Listening on 127.0.0.1:51431
+1704191869415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SKONIE~1\\AppData\\Local\\Temp\\rust_mozprofileloHQ84"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704191869786	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704191869862	Marionette	INFO	Listening on port 51441
+WebDriver BiDi listening on ws://127.0.0.1:51432
+Read port: 51441
+1704191870034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51432/devtools/browser/4037f6e7-1441-485a-aefb-97cda7bdea09
+1704191900922	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://stc.aeplcdn.com/staticminv2/js/bootstrap.f7d7f4c3e3.en.js, line 1: ChunkLoadError: Loading chunk defaultvendors-c308d2cf88701799bdd53704299dc1f2 failed.
+(error: https://stc.aeplcdn.com/staticminv2/js/defaultvendors-c308d2cf88701799bdd53704299dc1f2.835102353f.en.js)
+JavaScript error: https://stc.aeplcdn.com/staticminv2/js/bootstrap.f7d7f4c3e3.en.js, line 1: ChunkLoadError: Loading chunk defaultvendors-c308d2cf88701799bdd53704299dc1f2 failed.
+(error: https://stc.aeplcdn.com/staticminv2/js/defaultvendors-c308d2cf88701799bdd53704299dc1f2.835102353f.en.js)
+JavaScript error: https://stc.aeplcdn.com/staticminv2/js/bootstrap.f7d7f4c3e3.en.js, line 1: ChunkLoadError: Loading chunk location-popup-content-pv2 failed.
+(error: https://stc.aeplcdn.com/staticminv2/js/location-popup-content-pv2.607d311c95.en.js)
+JavaScript error: https://stc.aeplcdn.com/staticminv2/js/bootstrap.f7d7f4c3e3.en.js, line 1: ChunkLoadError: Loading chunk location-popup-content-pv2 failed.
+(error: https://stc.aeplcdn.com/staticminv2/js/location-popup-content-pv2.607d311c95.en.js)
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+console.error: ({})
+console.error: ({})
+1704192000205	Marionette	INFO	Stopped listening on port 51441
+JavaScript warning: https://surveys-static.survicate.com/widget_core-22.3.6.js, line 1: Script terminated by timeout at:
+consumeRequests/<@https://surveys-static.survicate.com/widget_core-22.3.6.js:1:220039
+
+Dynamically enable window occlusion 1
